@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm Luka</h1>
-<h3 align="center">A passionate programmer, designer and athlete from Croatia</h3>
+<h1 align="center">Luka Lukšić</h1>
+<h3 align="center">Computer technician and web design and athlete from Croatia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Luksa00&label=Profile%20views&color=0e75b6&style=flat" alt="Luksa00" />
 </p>
 
 ---
-
-- 🔭 I’m currently working on **Formula Racing Game with HTML, CSS, PHP & MySQL**
-- ⚙️ I love working with **Lua**, **C++**, **Python**, and **JavaScript**
-- 💡 Passionate about fitness, guitar playing, and creative design
-- 📚 Currently learning **Next.js**, **Tailwind**, and advanced frontend skills
-- 💬 Ask me about **custom FXCM indicators, algorithms, and UI/UX**
-- 📫 How to reach me: **luksa00@example.com**
-- ⚡ Fun fact: I lift weights like Sam Sulek and code like I mean it 😄
+I'm a student who completed secondary education as a Computer Technician and currently studying Web Design at TVZ in Zagreb.
+All the projects I’ve done so far were for school or college purposes. We were given a theme, but I always created games and applications in my own unique style.
 
 ---
+<p align="left">
+  
+  ‹a href="https://www.instagram.com/luksic69 confirmation=1">
+  <img alt="Instagram" title="Ig"
+  <i class="fa-brands fa-instagram"></i></a>
+  
 
+</p>
+  
 ### 🛠️ Languages and Tools
 
 <p align="center">
