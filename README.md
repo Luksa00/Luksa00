@@ -12,43 +12,9 @@ All the projects I’ve done so far were for school or college purposes. We were
 ---
 <p align="left">
   
-‹a href="https://www.instagram.com/luksic69 confirmation=1*>
-<img alt="Instagram" title="Ig"
-src= "
- 
-<i class="fa-brands fa-instagram"></i>"/></a>
-  
-
-
-
-
-
-
-
-href-"https://www.youtube.com/c/fknight*>
-<img alt-"youtube views" title="YouTube views" src-"https://
-custom-icon-badges.demolab.com/youtube/channel/views/
-UC2WHjPDvbE60328n17ZGcfg?color-X23E1AD0E&logo=eye&logoColorawhite&
-style-for-the-badge&1abelColor«C79600*/></a>
-
-href-"https:/lgithub.com/ForrestKnight?tab=followers">
-«img alt="followers" title="Follow me on Github" src="https://
-custom-icon-badges.demolab.com/github/followers/ForrestKnight?
-color=236ad3&1abelColor=1155ba&style=for-the-badge&logo=person-add&
-label«Follow&logoColor=white*/></a>
-
-‹a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers
-<ing alt="total stars" title="Total stars on GitHub" src-"https://
-custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&
-style=for-the-badge&labelColor=488207&logoustar*/></a>
-
-
-
-
-
-
-
-
+<a href="https://www.instagram.com/luksic69" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-blueviolet?logo=instagram&style=for-the-badge" alt="Instagram badge" />
+</a>
 
 
 </p>
