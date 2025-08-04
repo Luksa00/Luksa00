@@ -19,7 +19,7 @@ All the projects I’ve done so far were for school or college purposes. We were
 
 </p>
   
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <p align="center">
 
@@ -32,6 +32,12 @@ All the projects I’ve done so far were for school or college purposes. We were
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Ph" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" alt="Ai" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Pr" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="Ae" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/svg-repo/audition.svg" alt="Au" width="40" height="40"/>
+
  
 
   
@@ -51,21 +57,3 @@ All the projects I’ve done so far were for school or college purposes. We were
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luksa00&theme=algolia" alt="trophies" />
-</p>
-
----
-
-### 🌐 Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" />
-  </a>
-  <a href="https://youtube.com/@yourchannel" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" width="30" />
-  </a>
-</p>
