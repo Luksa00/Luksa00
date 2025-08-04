@@ -36,16 +36,14 @@ All the projects I’ve done so far were for school or college purposes. We were
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" alt="Ai" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Pr" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="Ae" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/svg-repo/audition.svg" alt="Au" width="40" height="40"/>
 
- 
 
   
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luksa00&show_icons=true&theme=radical" alt="stats" />
