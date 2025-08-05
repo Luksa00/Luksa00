@@ -46,9 +46,6 @@ All the projects I’ve completed were for school or college purposes. We were g
   <img src="https://github-readme-stats.vercel.app/api?username=Luksaaa&show_icons=true&theme=radical" alt="stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luksaaa&theme=radical" alt="streaks" />
-</p>
 
 ---
 
