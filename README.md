@@ -1,10 +1,6 @@
 <h1 align="center">Luka Lukšić</h1>
 <h3 align="center">Computer technician and web design from Croatia</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luksa00&label=Profile%20views&color=0e75b6&style=flat" alt="Luksa00" />
-</p>
-
 ---
 
 I'm a student who graduated from a high school program in Computer Technology and I'm currently studying Web Design at TVZ in Zagreb. 
