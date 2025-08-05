@@ -3,7 +3,7 @@
 
 ---
 
-I'm a student who graduated from a high school program in Computer Technology and I'm currently studying Web Design at TVZ in Zagreb. 
+Having graduated from high school in computer technology, I'm now studying web design at TVZ in Zagreb.
 All the projects I’ve completed were for school or college purposes. We were given a theme, but I always created games and applications in my own unique style.
 
 ---
