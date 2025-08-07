@@ -4,7 +4,7 @@
 ---
 
 Having graduated from high school in computer technology, I'm now studying web design at TVZ in Zagreb.
-All the projects I’ve completed were for school or college purposes. We were given a theme, but I always created games and applications in my own unique style.
+Some of the projects were for school or college purposes. We were given a theme, but I always created games and apps in my own unique style.
 
 ---
 <p align="left">
